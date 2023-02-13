@@ -1,3 +1,10 @@
+# NVDAext_Alcatel-Lucent-4059mac by Thibaud NEDEY - Tybot.Fr
+# Licence GNU GPL v3
+# This file is part of NVDAext_Alcatel-Lucent-4059mac.
+# NVDAext_Alcatel-Lucent-4059mac is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
+# NVDAext_Alcatel-Lucent-4059mac is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+# You should have received a copy of the GNU General Public License version 3 (file : 'LICENSE') along with NVDAext_Alcatel-Lucent-4059mac. If not, see https://www.gnu.org/licenses/gpl-3.0.html
+
 import appModuleHandler
 import addonHandler
 import eventHandler

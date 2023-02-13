@@ -3,7 +3,7 @@
 	"displayName": "Alcatel-Lucent 4059 IP - NVDA add-on",
 	"URL": "",
 	"description": "Add-on pour le logiciel de standard Alcatel-Lucent 4059 IP",
-	"sha256": "9332b8a234b3f7016f59306a4377a4b8525a8982b2474600dbeb3249ad16f7cb",
+	"sha256": "42416ddc2842cd53e7f886f4ec10bfb14830fc2b3937d839649ea672727ef55c",
 	"homepage": "https://github.com/TybotFr/NVDAext_Alcatel-Lucent-4059mac",
 	"addonVersionName": "1.0",
 	"addonVersionNumber": {
