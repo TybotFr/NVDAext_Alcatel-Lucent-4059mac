@@ -1,0 +1,29 @@
+{
+	"addonId": "NVDAext_Alcatel-Lucent-4059mac",
+	"displayName": "Alcatel-Lucent 4059 IP - NVDA add-on",
+	"URL": "",
+	"description": "Add-on pour le logiciel de standard Alcatel-Lucent 4059 IP",
+	"sha256": "9332b8a234b3f7016f59306a4377a4b8525a8982b2474600dbeb3249ad16f7cb",
+	"homepage": "https://github.com/TybotFr/NVDAext_Alcatel-Lucent-4059mac",
+	"addonVersionName": "1.0",
+	"addonVersionNumber": {
+		"major": 0,
+		"minor": 0,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2022,
+		"minor": 3,
+		"patch": 2
+	},
+	"lastTestedVersion": {
+		"major": 2022,
+		"minor": 3,
+		"patch": 2
+	},
+	"channel": "stable",
+	"publisher": "",
+	"sourceURL": "https://github.com/TybotFr/NVDAext_Alcatel-Lucent-4059mac",
+	"license": "GNU GPL v3",
+	"licenseURL": "https://www.gnu.org/licenses/gpl-3.0.html"
+}
