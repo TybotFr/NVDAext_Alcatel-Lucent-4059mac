@@ -5,6 +5,7 @@
 # Change this file instead of sconstruct or manifest files, whenever possible.
 
 # NVDAext_Alcatel-Lucent-4059mac by Thibaud NEDEY - Tybot.Fr
+# Copyright 2023
 # Licence GNU GPL v3
 # This file is part of NVDAext_Alcatel-Lucent-4059mac.
 # NVDAext_Alcatel-Lucent-4059mac is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.
@@ -33,7 +34,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("Add-on pour le logiciel de standard Alcatel-Lucent 4059 IP"),
 	# version
-	"addon_version": "1.0",
+	"addon_version": "1.2.1",
 	# Author(s)
 	"addon_author": "Thibaud NÉDEY - Tybot.fr <contact@tybot.fr>",
 	# URL for the add-on documentation support
